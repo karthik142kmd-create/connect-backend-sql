@@ -1,0 +1,22 @@
+{
+  "name": "backend_sql",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "shiva karthik",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^10.6.0"
+  },
+  "dependencies": {
+    "ejs": "^7.0.2",
+    "express": "^5.3.0",
+    "method-override": "^3.0.0",
+    "mysql2": "^3.24.6",
+    "uuid": "^14.0.3"
+  }
+}
